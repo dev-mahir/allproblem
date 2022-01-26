@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background: #e2e2e2;
+}
+
+
+button{
+  margin: 0;
+}
+
+
+
+.pr-quantity button {
+  border: none;
+  font-size: 47px;
+  margin-top: 52px;
+  padding: 0px 45px;
+  font-weight: 900;
+  line-height: 118px;
+}
+
+
+
+
+
+
+
+
+
